@@ -1,0 +1,32 @@
+{
+	"name": "Unkempt",
+	"designer": "Sideshow",
+	"license": "APACHE2",
+	"category": "DISPLAY",
+	"date_added": "2011-12-05",
+	"fonts": [
+		{
+			"name": "Unkempt",
+			"style": 1,
+			"weight": 400,
+			"filename": "Unkempt-Regular.ttf",
+			"post_script_name": "Unkempt",
+			"full_name": "Unkempt",
+			"copyright": "Copyright (c) 2010 by Font Diner, Inc DBA Sideshow (diner@fontdiner.com) with Reserved Font Name \"Unkempt\". All rights reserved."
+		},
+		{
+			"name": "Unkempt",
+			"style": 1,
+			"weight": 700,
+			"filename": "Unkempt-Bold.ttf",
+			"post_script_name": "Unkempt-Bold",
+			"full_name": "Unkempt Bold",
+			"copyright": "Copyright (c) 2011 by Font Diner, Inc DBA Sideshow (diner@fontdiner.com) with Reserved Font Name \"Unkempt\". All rights reserved."
+		}
+	],
+	"aliases": [],
+	"subsets": [
+		"menu",
+		"latin"
+	]
+}

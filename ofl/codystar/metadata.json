@@ -1,0 +1,33 @@
+{
+	"name": "Codystar",
+	"designer": "Neapolitan",
+	"license": "OFL",
+	"category": "DISPLAY",
+	"date_added": "2012-03-14",
+	"fonts": [
+		{
+			"name": "Codystar",
+			"style": 1,
+			"weight": 300,
+			"filename": "Codystar-Light.ttf",
+			"post_script_name": "Codystar-Light",
+			"full_name": "Codystar Light",
+			"copyright": "Copyright (c) 2012 by Font Diner, Inc DBA Neapolitan (diner@fontdiner.com) with Reseved Font Name \"Codystar Light\""
+		},
+		{
+			"name": "Codystar",
+			"style": 1,
+			"weight": 400,
+			"filename": "Codystar-Regular.ttf",
+			"post_script_name": "Codystar",
+			"full_name": "Codystar",
+			"copyright": "Copyright (c) 2012 by Font Diner, Inc DBA Neapolitan (diner@fontdiner.com) with Reseved Font Name \"Codystar\""
+		}
+	],
+	"aliases": [],
+	"subsets": [
+		"menu",
+		"latin",
+		"latin-ext"
+	]
+}

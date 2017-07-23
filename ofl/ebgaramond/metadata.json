@@ -1,0 +1,27 @@
+{
+	"name": "EB Garamond",
+	"designer": "Georg Duffner",
+	"license": "OFL",
+	"category": "SERIF",
+	"date_added": "2011-03-23",
+	"fonts": [
+		{
+			"name": "EB Garamond",
+			"style": 1,
+			"weight": 400,
+			"filename": "EBGaramond-Regular.ttf",
+			"post_script_name": "EBGaramond",
+			"full_name": "EB Garamond",
+			"copyright": "Copyright (c) 2010, 2011, 2012 Georg Duffner (http://www.georgduffner.at g.duffner@gmail.com)"
+		}
+	],
+	"aliases": [],
+	"subsets": [
+		"menu",
+		"cyrillic",
+		"cyrillic-ext",
+		"latin",
+		"latin-ext",
+		"vietnamese"
+	]
+}

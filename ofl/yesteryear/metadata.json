@@ -1,0 +1,23 @@
+{
+	"name": "Yesteryear",
+	"designer": "Astigmatic",
+	"license": "OFL",
+	"category": "HANDWRITING",
+	"date_added": "2011-12-19",
+	"fonts": [
+		{
+			"name": "Yesteryear",
+			"style": 1,
+			"weight": 400,
+			"filename": "Yesteryear-Regular.ttf",
+			"post_script_name": "Yesteryear-Regular",
+			"full_name": "Yesteryear",
+			"copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Name \"Yesteryear\""
+		}
+	],
+	"aliases": [],
+	"subsets": [
+		"menu",
+		"latin"
+	]
+}

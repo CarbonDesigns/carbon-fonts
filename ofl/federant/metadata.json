@@ -1,0 +1,23 @@
+{
+	"name": "Federant",
+	"designer": "Cyreal",
+	"license": "OFL",
+	"category": "DISPLAY",
+	"date_added": "2011-10-05",
+	"fonts": [
+		{
+			"name": "Federant",
+			"style": 1,
+			"weight": 400,
+			"filename": "Federant-Regular.ttf",
+			"post_script_name": "Federant-Regular",
+			"full_name": "Federant",
+			"copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org), with Reserved Font Name 'Federant'."
+		}
+	],
+	"aliases": [],
+	"subsets": [
+		"menu",
+		"latin"
+	]
+}

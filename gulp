@@ -1,0 +1,4 @@
+#!/bin/bash
+pushd "$(dirname "$0")"
+node node_modules/gulp/bin/gulp.js $*
+popd

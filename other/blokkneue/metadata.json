@@ -1,0 +1,23 @@
+{
+	"name": "Blokk Neue",
+	"designer": "Los Gordos",
+	"license": "OFL",
+	"category": "SANS_SERIF",
+	"date_added": "2016-07-26",
+	"fonts": [
+		{
+			"name": "Blokk Neue",
+			"style": 1,
+			"weight": 400,
+			"filename": "BLOKKNeue-Regular.ttf",
+			"post_script_name": "BLOKKNeue-Regular",
+			"full_name": "Blokk Neue",
+			"copyright": ""
+		}
+	],
+	"aliases": [],
+	"subsets": [
+		"menu",
+		"latin"
+	]
+}

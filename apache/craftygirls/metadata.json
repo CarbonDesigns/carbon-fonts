@@ -1,0 +1,23 @@
+{
+	"name": "Crafty Girls",
+	"designer": "Tart Workshop",
+	"license": "APACHE2",
+	"category": "HANDWRITING",
+	"date_added": "2011-01-06",
+	"fonts": [
+		{
+			"name": "Crafty Girls",
+			"style": 1,
+			"weight": 400,
+			"filename": "CraftyGirls.ttf",
+			"post_script_name": "CraftyGirls",
+			"full_name": "Crafty Girls",
+			"copyright": "Copyright (c) 2010 by Font Diner, Inc DBA Tart Workshop (diner@fontdiner.com). All rights reserved."
+		}
+	],
+	"aliases": [],
+	"subsets": [
+		"menu",
+		"latin"
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"name": "Chau Philomene One",
+	"designer": "Vicente Lamónaca",
+	"license": "OFL",
+	"category": "SANS_SERIF",
+	"date_added": "2012-04-04",
+	"fonts": [
+		{
+			"name": "Chau Philomene One",
+			"style": 1,
+			"weight": 400,
+			"filename": "ChauPhilomeneOne-Regular.ttf",
+			"post_script_name": "ChauPhilomeneOne-Regular",
+			"full_name": "Chau Philomene One",
+			"copyright": "Copyright (c) 2010-2012, TipoType (produccion.taller@gmail.com), with Reserved Font Name \"Chau Philomene\""
+		},
+		{
+			"name": "Chau Philomene One",
+			"style": 2,
+			"weight": 400,
+			"filename": "ChauPhilomeneOne-Italic.ttf",
+			"post_script_name": "ChauPhilomeneOne-Italic",
+			"full_name": "Chau Philomene One",
+			"copyright": "Copyright (c) 2010-2012, TipoType (produccion.taller@gmail.com www.tipotype.com), with Reserved Font Name \"Chau Philomene\""
+		}
+	],
+	"aliases": [],
+	"subsets": [
+		"menu",
+		"latin",
+		"latin-ext"
+	]
+}

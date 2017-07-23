@@ -1,0 +1,32 @@
+{
+	"name": "Astloch",
+	"designer": "Dan Rhatigan",
+	"license": "OFL",
+	"category": "DISPLAY",
+	"date_added": "2011-02-16",
+	"fonts": [
+		{
+			"name": "Astloch",
+			"style": 1,
+			"weight": 400,
+			"filename": "Astloch-Regular.ttf",
+			"post_script_name": "Astloch",
+			"full_name": "Astloch",
+			"copyright": "Copyright (c) 2010, 2011 Daniel Rhatigan (sparky@ultrasparky.org) with Reserved Font Name Astloch."
+		},
+		{
+			"name": "Astloch",
+			"style": 1,
+			"weight": 700,
+			"filename": "Astloch-Bold.ttf",
+			"post_script_name": "Astloch-Bold",
+			"full_name": "Astloch Bold",
+			"copyright": "Copyright (c) 2010, 2011 Daniel Rhatigan (sparky@ultrasparky.org) with Reserved Font Name Astloch."
+		}
+	],
+	"aliases": [],
+	"subsets": [
+		"menu",
+		"latin"
+	]
+}

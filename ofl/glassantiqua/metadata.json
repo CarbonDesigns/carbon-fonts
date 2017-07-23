@@ -1,0 +1,24 @@
+{
+	"name": "Glass Antiqua",
+	"designer": "Denis Masharov",
+	"license": "OFL",
+	"category": "DISPLAY",
+	"date_added": "2012-02-22",
+	"fonts": [
+		{
+			"name": "Glass Antiqua",
+			"style": 1,
+			"weight": 400,
+			"filename": "GlassAntiqua-Regular.ttf",
+			"post_script_name": "GlassAntiqua-Regular",
+			"full_name": "Glass Antiqua",
+			"copyright": "Copyright (c) 2011, Denis Masharov <denis.masharov@gmail.com>."
+		}
+	],
+	"aliases": [],
+	"subsets": [
+		"menu",
+		"latin",
+		"latin-ext"
+	]
+}
